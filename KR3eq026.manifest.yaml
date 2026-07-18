@@ -23,7 +23,7 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eq026_000.markers.yaml, hash: 'sha256:120f3ed9e955c6e788db6336b2ddac1f5048b805a0af0c83ab148480a326dfea'}
   - {seq: 1, role: markers, filename: assets/KR3eq026_001.markers.yaml, hash: 'sha256:327ab88c092a6ae2ebbda1491ffe851bd343040bf4c595f50f3144677452be13'}
-  - {seq: 3, role: markers, filename: assets/KR3eq026_003.markers.yaml, hash: 'sha256:af0051e164743f0dc139e3a252efce398418889fff4a2a67b884cc550935f704'}
+  - {seq: 3, role: markers, filename: assets/KR3eq026_003.markers.yaml, hash: 'sha256:f49cac3187980b82d18186b0742dab4ac01fd8148b7c3837344aac0d234026ec'}
 table_of_contents:
 - ref:
     seq: 0
@@ -645,7 +645,7 @@ table_of_contents:
   label: 試妊婦男女法
   type: section
   level: 3
-hash: sha256:e46e425c06b4c400392ea26e6dc2587bced307504967c178e7381f02d80fcd59
+hash: sha256:c15f72473205a5c3fef2ff5f10203781b1ddcb2eeb7e11fe98bb94aac7d5ef49
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
