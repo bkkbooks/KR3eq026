@@ -17,11 +17,11 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eq026_000-jc.yaml, hash: 'sha256:332d086527604b6844fa3a9b18e68618227589b37d973cbe331dc4dbb6de085b'}
+  - {seq: 0, filename: KR3eq026_000-jc.yaml, hash: 'sha256:fcf0aefe161e79c7b7585cf62d8d107db6cf4f1bba69d397b535ab5b16753018'}
   - {seq: 1, filename: KR3eq026_001-jc.yaml, hash: 'sha256:eb282ef1f7081d46d5c0ba59db04de416f40bc84a36b09fc004babc0b3db47cd'}
   - {seq: 3, filename: KR3eq026_003-jc.yaml, hash: 'sha256:7e357bb6dcf6b86cf3fa36aca021f7c4c0077e6cec868b611c4a76c6340ef101'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq026_000-jc.markers.yaml, hash: 'sha256:fe4a6a8162c005704cdb718c1dc5ac5931973186b0d968c35f1e1fbc4e90f872'}
+  - {seq: 0, role: markers, filename: assets/KR3eq026_000-jc.markers.yaml, hash: 'sha256:7e595ead62877af66ba318cd1a628dd8890268df3ed35f0852ebcc5956b98d25'}
   - {seq: 1, role: markers, filename: assets/KR3eq026_001-jc.markers.yaml, hash: 'sha256:f9908e5c27f667c788e7c5850103d7f95fb4e3d304b4d7917b1c1b56607e01df'}
   - {seq: 3, role: markers, filename: assets/KR3eq026_003-jc.markers.yaml, hash: 'sha256:86ce5dd0111eeda998e8f1989d3916a88a8e5441714aaa1b703b4369b4620c2f'}
 table_of_contents:
@@ -29,7 +29,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq026_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 342
   label: 序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq026_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 342
     - 815
   label: 序
@@ -645,4 +645,4 @@ table_of_contents:
   label: 試妊婦男女法
   type: section
   level: 3
-hash: sha256:1569d77e866476229909099812985d7e3ac1117308d5a902ead43e24529da863
+hash: sha256:9121e8c6c01b7562f6c9ab433e5880e5c1a5564f4c0a016f5acb7519ce3d447c
